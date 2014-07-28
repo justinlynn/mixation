@@ -1,6 +1,6 @@
 {
   "name": "mixation",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Mixin behaviour for CoffeeScript that tries to suck less",
   "scripts": {
     "test": "grunt"
@@ -13,6 +13,7 @@
       "coffeeify"
     ]
   },
+  "files": [ "build", "README.md" ],
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browserify": "^2.1.4",
