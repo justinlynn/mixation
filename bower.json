@@ -1,0 +1,24 @@
+{
+  "name": "mixation",
+  "version": "0.1.0",
+  "authors": [
+    "J Lynn <j@jaesharp.com>"
+  ],
+  "description": "Mixin behaviour for CoffeeScript that tries to suck less",
+  "keywords": [
+    "mixin"
+  ],
+  "license": "Public Domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.21.0",
+    "should": "~3.3.1"
+  }
+}
