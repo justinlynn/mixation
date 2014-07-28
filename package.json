@@ -5,6 +5,7 @@
   "scripts": {
     "test": "grunt"
   },
+  "main": "build/mixation.min.js",
   "author": "J Lynn <j@jaesharp.com>",
   "license": "ISC",
   "browserify": {
