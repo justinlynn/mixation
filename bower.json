@@ -13,7 +13,12 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "spec"
+    "src",
+    "build/mixation.specs.js",
+    "spec",
+    "package.json",
+    "bower.json",
+    "gruntfile.coffee"
   ],
   "dependencies": {
   },
