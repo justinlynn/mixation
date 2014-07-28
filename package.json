@@ -1,10 +1,11 @@
 {
   "name": "mixation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mixin behaviour for CoffeeScript that tries to suck less",
   "scripts": {
     "test": "grunt"
   },
+  "main": "build/mixation.min.js",
   "author": "J Lynn <j@jaesharp.com>",
   "license": "ISC",
   "browserify": {
