@@ -1,6 +1,7 @@
 {
   "name": "mixation",
   "version": "0.1.0",
+  "main": "build/mixation.min.js",
   "authors": [
     "J Lynn <j@jaesharp.com>"
   ],
