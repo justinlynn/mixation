@@ -13,6 +13,7 @@
       "coffeeify"
     ]
   },
+  "files": [ "build", "README.md" ],
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-browserify": "^2.1.4",
