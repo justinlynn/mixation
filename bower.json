@@ -1,6 +1,7 @@
 {
   "name": "mixation",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "main": "build/mixation.min.js",
   "authors": [
     "J Lynn <j@jaesharp.com>"
   ],
@@ -8,12 +9,17 @@
   "keywords": [
     "mixin"
   ],
-  "license": "Public Domain",
+  "license": "ISC",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "spec"
+    "src",
+    "build/mixation.specs.js",
+    "spec",
+    "package.json",
+    "bower.json",
+    "gruntfile.coffee"
   ],
   "dependencies": {
   },
